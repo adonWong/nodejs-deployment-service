@@ -56,7 +56,7 @@ PORT=3001
 LOG_LEVEL=info
 
 # 前端项目路径 (修改为您的项目实际路径)
-PROJECT_PATH=D:/workspace/FEOSW
+PROJECT_PATH=""
 
 # 后端服务配置
 BACKEND_SERVICE_URL=http://localhost:3000
@@ -296,4 +296,4 @@ pnpm test
 
 ## 许可证
 
-MIT License 
+MIT License
